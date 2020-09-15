@@ -11,7 +11,7 @@
 
 ### Olá! 👋
 
-Meu nome é Jucilene Barros, estudante Front-End e apaixonada por Desenvolvimento.
+ Sou Jucilene Barros, desenvolvedora Front-End Jr. formada na 4º geração da Laboratória e apaixonada por Desenvolvimento.
 
 - 💻❤️ Apaixonada por tecnologia e iniciante no mundo da programação.
 - 📚 Em constante aprendizado.
