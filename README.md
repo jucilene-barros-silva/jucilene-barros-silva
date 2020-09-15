@@ -19,4 +19,4 @@
 - 🔧 Visual Studio Code, GitHub.
 - 🎓 Bacharel em Administração e Técnica em Farmácia.
 
-  :octocat: [jucilene-barros-silva](https://https://github.com/jucilene-barros-silva)
+  <!--:octocat: [jucilene-barros-silva](https://https://github.com/jucilene-barros-silva)-->
